@@ -18,7 +18,7 @@ def get_sentiment(text: list) -> list:
             return "Wrong input. text must be an array of strings."
     if text == []:
         return "Wrong input. text must be an array of strings."      
-    
+    # Categorize reviews using LLM and output the list of sentiments without extraneous blank lines.
     system_prompt = """You are a helpful sentiment sorter that categorizes reviews. The catergories will either be
     positive, neutral, negative, or irrelevant."""
 
