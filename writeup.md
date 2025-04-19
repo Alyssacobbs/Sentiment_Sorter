@@ -8,7 +8,7 @@ What is the most common sentiment observed in your sample of 50 reviews accordin
 
 How reliable do you believe these labels are? Look at the respective labels OpenAI has generated for specific reviews, does it seem like the large language model accurately described the user's review? What risk do model hallucinations introduce into this analysis?
 
-[I believe these labels are somewhat reliable. When I read through the reviews some of the OpenAI labels are accurate while others are not. Using OpenAI can be helpful but results may vary based on the system_prompt used. Hallucinations could affect the probabilistic text predictions and reliability of the results. The differences in the code (e.g., system prompt) could influence the large-language-models' output although all users may request the model to act as a sentiment sorter.]
+[I believe these labels are somewhat reliable. When I read through the reviews some of the OpenAI labels were accurate while others were not. Using OpenAI can be helpful but results may vary based on each users system_prompt. Hallucinations could affect the probabilistic text predictions and reliability of the results. The differences in the code (e.g., system prompt) could influence the large-language-models' output although all users may request the model to act as a sentiment sorter.]
 
 ## Question 3
 
