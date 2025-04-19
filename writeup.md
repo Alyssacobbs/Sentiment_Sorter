@@ -2,7 +2,7 @@
 
 What is the most common sentiment observed in your sample of 50 reviews according to your OpenAI labeled data?
 
-[The most common sentiment observed in my sample of reviews is negative.]
+[The most common sentiment observed in my sample of reviews was negative.]
 
 ## Question 2
 
